@@ -1,0 +1,32 @@
+base_url = "https://nullprop.sh"
+compile_sass = true
+build_search_index = true
+generate_feeds = true
+feed_filenames = ["rss.xml"]
+title = "nullprop.sh"
+theme = "terminimal"
+taxonomies = [
+    {name = "tags"},
+]
+default_language = "en"
+
+[markdown]
+highlight_code = true
+
+[extra]
+# https://github.com/pawroman/zola-theme-terminimal
+accent_color = "red"
+background_color = "dark"
+logo_text = "nullprop.sh"
+copyright_html = "(half life scientist) everything.. seems to be in order"
+menu_items = [
+    {name = "blog", url = "$BASE_URL"},
+    {name = "tags", url = "$BASE_URL/tags"},
+    {name = "rss", url = "$BASE_URL/rss.xml", newtab = true},
+    {name = "projects", url = "$BASE_URL/projects"},
+    {name = "photos", url = "$BASE_URL/photos"},
+    {name = "github", url = "https://github.com/nullprop", newtab = true},
+    {name = "fedi", url = "https://idtech.space/users/nullprop", rel = "me", newtab = true},
+]
+post_view_navigation_prompt = "More posts"
+favicon = "/favicon.ico"
