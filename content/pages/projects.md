@@ -3,18 +3,6 @@ title = "projects"
 path = "projects"
 +++
 
-# halflife-photomode
-
-A basic photo mode for Half-Life. 
-
-Source: [https://github.com/nullprop/halflife-photomode](https://github.com/nullprop/halflife-photomode)
-
-{{ video(src="https://files.nullprop.sh/vid/photomode_compressed.mp4", type="video/mp4", caption="Half-Life photomode") }}
-
-<br/>
-
-- - -
-
 ## wgpu-renderer
 
 Realtime renderer for learning, Rust, wgpu.
@@ -35,6 +23,18 @@ Demo: [https://nullprop.sh/wgpu-renderer/](https://nullprop.sh/wgpu-renderer/)
 - Ctrl/Space - Move vertically
 - Mouse - Look around
 - Scrollwheel - Increase/Decrease movement speed
+
+<br/>
+
+- - -
+
+# halflife-photomode
+
+A basic photo mode for Half-Life. 
+
+Source: [https://github.com/nullprop/halflife-photomode](https://github.com/nullprop/halflife-photomode)
+
+{{ video(src="https://files.nullprop.sh/vid/photomode_compressed.mp4", type="video/mp4", caption="Half-Life photomode") }}
 
 <br/>
 
@@ -239,11 +239,11 @@ YouTube: [https://www.youtube.com/tempusrecords](https://www.youtube.com/tempusr
 
 - - -
 
-## Unity 5.2 - 2D line of sight shader
+## Unity 5 - 2D line of sight shader
 
 Unity shader experiment from 2016.
 
-{{ video(src="https://files.nullprop.sh/vid/unity_los.mp4", type="video/mp4", caption="Unity 5.2 - LOS shader") }}
+{{ video(src="https://files.nullprop.sh/vid/unity_los.mp4", type="video/mp4", caption="Unity 5 - LOS shader") }}
 
 - - -
 
