@@ -3,7 +3,7 @@ compile_sass = true
 build_search_index = true
 generate_feeds = true
 feed_filenames = ["rss.xml"]
-title = "nullprop"
+title = "nullprop.sh"
 theme = "terminimal"
 taxonomies = [
     {name = "tags"},
@@ -17,7 +17,7 @@ highlight_code = true
 # https://github.com/pawroman/zola-theme-terminimal
 accent_color = "red"
 background_color = "dark"
-logo_text = "nullprop"
+logo_text = "nullprop.sh | Lauri Räsänen"
 copyright_html = "(half life scientist) everything.. seems to be in order"
 menu_items = [
     {name = "blog", url = "$BASE_URL"},
