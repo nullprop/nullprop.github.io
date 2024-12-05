@@ -42,11 +42,11 @@ Source: [https://github.com/nullprop/halflife-photomode](https://github.com/null
 
 ## drive
 
-Procedular terrain experiment. C++, Vulkan.
+Procedural terrain experiment. C++, Vulkan.
 
 Source: [https://github.com/nullprop/drive](https://github.com/nullprop/drive)
 
-{{ video(src="https://files.nullprop.sh/vid/drive.mp4", type="video/mp4", caption="procedular terrain & sky") }}
+{{ video(src="https://files.nullprop.sh/vid/drive.mp4", type="video/mp4", caption="procedural terrain & sky") }}
 
 - - -
 
@@ -64,11 +64,11 @@ Source: [https://github.com/nullprop/blobby](https://github.com/nullprop/blobby)
 
 ## cave
 
-Procedular cubemarched cave experiment. Rust, Bevy.
+Procedural cubemarched cave experiment. Rust, Bevy.
 
 Source: [https://github.com/nullprop/cave](https://github.com/nullprop/cave)
 
-{{ video(src="https://files.nullprop.sh/vid/cave_low.mp4", type="video/mp4", caption="procedular cave") }}
+{{ video(src="https://files.nullprop.sh/vid/cave_low.mp4", type="video/mp4", caption="procedural cave") }}
 
 <br/>
 
