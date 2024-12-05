@@ -28,13 +28,13 @@ Demo: [https://nullprop.sh/wgpu-renderer/](https://nullprop.sh/wgpu-renderer/)
 
 - - -
 
-# halflife-photomode
+## blobby
 
-A basic photo mode for Half-Life. 
+SDF rendering experiment. C++, bgfx.
 
-Source: [https://github.com/nullprop/halflife-photomode](https://github.com/nullprop/halflife-photomode)
+Source: [https://github.com/nullprop/blobby](https://github.com/nullprop/blobby)
 
-{{ video(src="https://files.nullprop.sh/vid/photomode_compressed.mp4", type="video/mp4", caption="Half-Life photomode") }}
+{{ video(src="https://files.nullprop.sh/vid/blobby.mp4", type="video/mp4", caption="signed distance fields") }}
 
 <br/>
 
@@ -50,18 +50,6 @@ Source: [https://github.com/nullprop/drive](https://github.com/nullprop/drive)
 
 - - -
 
-## blobby
-
-SDF rendering experiment. C++, bgfx.
-
-Source: [https://github.com/nullprop/blobby](https://github.com/nullprop/blobby)
-
-{{ video(src="https://files.nullprop.sh/vid/blobby.mp4", type="video/mp4", caption="signed distance fields") }}
-
-<br/>
-
-- - -
-
 ## cave
 
 Procedural cubemarched cave experiment. Rust, Bevy.
@@ -69,6 +57,18 @@ Procedural cubemarched cave experiment. Rust, Bevy.
 Source: [https://github.com/nullprop/cave](https://github.com/nullprop/cave)
 
 {{ video(src="https://files.nullprop.sh/vid/cave_low.mp4", type="video/mp4", caption="procedural cave") }}
+
+<br/>
+
+- - -
+
+# halflife-photomode
+
+A basic photo mode for Half-Life. 
+
+Source: [https://github.com/nullprop/halflife-photomode](https://github.com/nullprop/halflife-photomode)
+
+{{ video(src="https://files.nullprop.sh/vid/photomode_compressed.mp4", type="video/mp4", caption="Half-Life photomode") }}
 
 <br/>
 
