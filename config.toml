@@ -25,6 +25,7 @@ menu_items = [
     {name = "rss", url = "$BASE_URL/rss.xml", newtab = true},
     {name = "projects", url = "$BASE_URL/projects"},
     {name = "photos", url = "$BASE_URL/photos"},
+    {name = "forgejo", url = "https://code.nullprop.sh", newtab = true},
     {name = "github", url = "https://github.com/nullprop", newtab = true},
     {name = "fedi", url = "https://idtech.space/users/nullprop", rel = "me", newtab = true},
 ]
