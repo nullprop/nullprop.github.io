@@ -32,7 +32,7 @@ Demo: [https://nullprop.sh/wgpu-renderer/](https://nullprop.sh/wgpu-renderer/)
 
 SDF rendering experiment. C++, bgfx.
 
-Source: [https://github.com/nullprop/blobby](https://github.com/nullprop/blobby)
+Source: [https://code.nullprop.sh/nullprop/blobby](https://code.nullprop.sh/nullprop/blobby)
 
 {{ video(src="https://files.nullprop.sh/vid/blobby.mp4", type="video/mp4", caption="signed distance fields") }}
 
@@ -44,7 +44,7 @@ Source: [https://github.com/nullprop/blobby](https://github.com/nullprop/blobby)
 
 Procedural terrain experiment. C++, Vulkan.
 
-Source: [https://github.com/nullprop/drive](https://github.com/nullprop/drive)
+Source: [https://code.nullprop.sh/nullprop/drive](https://code.nullprop.sh/nullprop/drive)
 
 {{ video(src="https://files.nullprop.sh/vid/drive.mp4", type="video/mp4", caption="procedural terrain & sky") }}
 
@@ -54,7 +54,7 @@ Source: [https://github.com/nullprop/drive](https://github.com/nullprop/drive)
 
 Procedural cubemarched cave experiment. Rust, Bevy.
 
-Source: [https://github.com/nullprop/cave](https://github.com/nullprop/cave)
+Source: [https://code.nullprop.sh/nullprop/cave](https://code.nullprop.sh/nullprop/cave)
 
 {{ video(src="https://files.nullprop.sh/vid/cave_low.mp4", type="video/mp4", caption="procedural cave") }}
 
@@ -66,7 +66,7 @@ Source: [https://github.com/nullprop/cave](https://github.com/nullprop/cave)
 
 A basic photo mode for Half-Life. 
 
-Source: [https://github.com/nullprop/halflife-photomode](https://github.com/nullprop/halflife-photomode)
+Source: [https://code.nullprop.sh/nullprop/halflife-photomode](https://code.nullprop.sh/nullprop/halflife-photomode)
 
 {{ video(src="https://files.nullprop.sh/vid/photomode_compressed.mp4", type="video/mp4", caption="Half-Life photomode") }}
 
@@ -79,9 +79,6 @@ Source: [https://github.com/nullprop/halflife-photomode](https://github.com/null
 A game made in less than 48 hours for Finnish Game Jam 2023. C#, Unity.
 
 > Brewed in the toxic cauldron of a witch, you are a magical root spreading all across the land. You have been sent forth by your creator to slay all humans of the nearby village.
-
-Source: [https://github.com/nullprop/fgj23](https://github.com/nullprop/fgj23)  
-GGJ: [https://globalgamejam.org/2023/games/rootbrew-8](https://globalgamejam.org/2023/games/rootbrew-8)  
 
 Team:
 - Piia Kemppainen - Art
@@ -99,7 +96,7 @@ Team:
 
 A modified renderer for [Xash3D FWGS](https://github.com/FWGS/xash3d-fwgs) (Half-Life) for testing post-processing effects. C, OpenGL.
 
-Source: [https://github.com/nullprop/hl-renderer](https://github.com/nullprop/hl-renderer)
+Source: [https://code.nullprop.sh/nullprop/hl-renderer](https://code.nullprop.sh/nullprop/hl-renderer)
 
 {{ figure(src="/projects/hl-renderer/cg.png", caption="Color grading") }}
 
@@ -111,7 +108,7 @@ Source: [https://github.com/nullprop/hl-renderer](https://github.com/nullprop/hl
 
 - - -
 
-## my_game
+## toygame
 
 Retro FPS toy project. C, OpenGL.
 
@@ -122,7 +119,7 @@ Retro FPS toy project. C, OpenGL.
 - Basic AI
 - Quake style movement
 
-Source: [https://github.com/nullprop/my_game](https://github.com/nullprop/my_game)
+Source: [https://code.nullprop.sh/nullprop/toygame](https://code.nullprop.sh/nullprop/toygame)
 
 {{ video(src="/projects/my_game/my_game_cube.mp4", type="video/mp4", caption="Basic AI") }}
 
@@ -144,7 +141,7 @@ Moba gamemode for TF2, VScript.
 - Sentries as towers
 - Leveling, custom damage, health, etc. for player classes
 
-Source: [https://github.com/nullprop/domc](https://github.com/nullprop/domc)
+Source: [https://code.nullprop.sh/nullprop/domc](https://code.nullprop.sh/nullprop/domc)
 
 Steam Workshop: [https://steamcommunity.com/sharedfiles/filedetails/?id=3308664636](https://steamcommunity.com/sharedfiles/filedetails/?id=3308664636)
 
@@ -255,7 +252,7 @@ Unity shader experiment from 2016.
 - An entry for 2023 Jump Jam
 - Custom [VScript](https://developer.valvesoftware.com/wiki/VScript) for turning TF2 into a rocketjump sidescroller
 - [jump.tf - Jump Jam 2023](https://jump.tf/forum/index.php?topic=3475.0)
-- Source: [https://github.com/nullprop/tf-maps](https://github.com/nullprop/tf-maps)
+- Source: [https://code.nullprop.sh/nullprop/tf-maps](https://code.nullprop.sh/nullprop/tf-maps)
 
 {{ video(src="https://files.nullprop.sh/vid/jump_2d.mp4", type="video/mp4", caption="jump_2d showcase") }}
 
@@ -263,7 +260,7 @@ Unity shader experiment from 2016.
 
 - 2023-04
 - Custom [VScript](https://developer.valvesoftware.com/wiki/VScript) for combining rocketjump with Titanfall-style wallruns
-- Source: [https://github.com/nullprop/tf-maps](https://github.com/nullprop/tf-maps)
+- Source: [https://code.nullprop.sh/nullprop/tf-maps](https://code.nullprop.sh/nullprop/tf-maps)
 
 {{ video(src="https://files.nullprop.sh/vid/jump_wallrun.mp4", type="video/mp4", caption="jump_wallrun_b1 showcase") }}
 
@@ -273,7 +270,7 @@ Unity shader experiment from 2016.
 - Part of TF2 rocketjump mapping collab during covid-19.
 - [jump.tf - Superior (soldier) COVID-19 Collab Map](https://jump.tf/forum/index.php/topic,3050.msg25555.htm)
 - [jump.tf - jump_corona](https://jump.tf/forum/index.php/topic,3111.msg26122.html)
-- Source: [https://github.com/nullprop/tf-maps](https://github.com/nullprop/tf-maps)
+- Source: [https://code.nullprop.sh/nullprop/tf-maps](https://code.nullprop.sh/nullprop/tf-maps)
 
 Prompt:  
 > i will send you a randomly sized and shaped room, and you have to put a jump in it. it won't be a boring hollow cube but something vaguely jump shaped. if you think you can fit more than one good jump in, go for it.
@@ -291,8 +288,7 @@ Prompt:
 ### house1
 
 - 2021-04
-- WIP s&box map, HL:A tools
-- Source: [https://github.com/nullprop/mapsrc](https://github.com/nullprop/mapsrc)
+- HL:A tools
 
 {{ image(src="/projects/hammer/house1_001.jpg") }}
 
