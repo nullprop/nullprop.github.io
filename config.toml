@@ -17,7 +17,7 @@ highlight_code = true
 # https://github.com/pawroman/zola-theme-terminimal
 accent_color = "red"
 background_color = "dark"
-logo_text = "nullprop.sh"
+logo_text = "Lauri Räsänen"
 copyright_html = "(half life scientist) everything.. seems to be in order"
 menu_items = [
     {name = "blog", url = "$BASE_URL"},
